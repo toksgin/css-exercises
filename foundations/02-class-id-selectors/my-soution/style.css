@@ -1,0 +1,18 @@
+.test {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.not {
+    font-size: 24px;
+}
+
+#id2 {
+    font-weight: bold;
+    background-color: lightgreen;
+}
